@@ -46,7 +46,7 @@ The Social Buzz Dataset is a collection of 3 Excel Files, featuring Comprehensiv
 
 ## 📑 Dataset Description
 
-When we examine, we observe a number of Different Columns all the 3 Datasets.
+When we examine, we observe a number of Different Columns in all the 3 Datasets.
 
 # Requirement
 
