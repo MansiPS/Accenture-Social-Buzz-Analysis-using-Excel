@@ -9,7 +9,7 @@
 
 # 📃Description
 
-In a Recent Simulation at Accenture, I Delved into the Multifaceted Role of a Data Analyst. This Exercise involved Cleaning, Modeling and Analyzing Seven Diverse datasets to Identify Content Trends and Guide Strategic Decisions. I then Translated these Insights into a Comprehensive PowerPoint deck and Video Presentation for both the Client and Internal Stakeholders. This Experience Highlights the Integral and Varied tasks that define a Data Analyst’s role at Accenture through Forage.
+In a Recent Simulation at Accenture, I Delved into the Multifaceted Role of a Data Analyst. This Exercise involved Cleaning, Modeling and Analyzing Seven Diverse datasets to Identify Content Trends and Guide Strategic Decisions. I then Translated these Insights into a Comprehensive PowerPoint deck for both the Client and Internal Stakeholders. This Experience Highlights the Integral and Varied tasks that define a Data Analyst’s role at Accenture through Forage.
 
 # Table of Content
 
