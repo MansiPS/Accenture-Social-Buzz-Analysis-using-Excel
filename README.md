@@ -9,7 +9,7 @@
 
 # 📃Description
 
-Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities, presenting a critical area of Research dedicated to Traffic Accident Analysis and Predictive Techniques. By Scrutinizing the myriad factors that lead to these Tragic events, we aim to uncover the most Pivotal Contributors to Road Traffic Accidents.
+In a Recent Simulation at Accenture, I Delved into the Multifaceted Role of a Data Analyst. This Exercise involved Cleaning, Modeling and Analyzing Seven Diverse datasets to Identify Content Trends and Guide Strategic Decisions. I then Translated these Insights into a Comprehensive PowerPoint deck and Video Presentation for both the Client and Internal Stakeholders. This Experience Highlights the Integral and Varied tasks that define a Data Analyst’s role at Accenture through Forage.
 
 # Table of Content
 
@@ -30,57 +30,31 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 # 🚀 Project Goal
 
-To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, encapsulating Critical Insights and Data to Illuminate the key factors influencing Road Traffic Accidents.
+The Primary Goal of this Project is to Analyze and Interpret Content Trends from Diverse Datasets to provide Actionable insights that would Enhance Strategic Decision-making for the Social Media Client.
 
 # Project Motivation
 
-The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
+This Project was Driven by my Eagerness to Gain Hands-on Experience in applying Data Analysis Techniques, demonstrating how Data-driven Insights can influence Strategic Decisions while Enhancing my Skills and understanding of the Field.
 
 # ⏳ Dataset
 
-The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
+The Social Buzz Dataset is a collection of 3 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
+- Dataset 1 Link :- [Content.csv](https://github.com/user-attachments/files/16487149/Content.csv)
+- Dataset 2 Link :- [Reactions.csv](https://github.com/user-attachments/files/16487150/Reactions.csv)
+- Dataset 3 Link :- [ReactionTypes.csv](https://github.com/user-attachments/files/16487151/ReactionTypes.csv)
 
 ## 📑 Dataset Description
 
-When we examine the Data, we observe a number of Different Columns.
-
-- Accident Index : An Unique Identifier for each Reported Accident.🚨
-- Accident Date : The Date in which the Accident occurred.
-- Day of Week : The Day in which the Accident occurred.
-- Junction Details : Specifics about the Junction Location.⚠️
-- Accident Severity : Degree of Impact or Harm caused by the Accident.🤕
-- Latitude : Geographic Latitude of the Accident Location.
-- Light Conditions : Lighting Status at the Time of the Accident.💥
-- Local Authority (District) : Administrative District where the Accident Occurred.
-- Carriageway Hazards : Obstacles or Dangers on the Road.
-- Longitude : Geographic Longitude of the Accident Location.
-- Number of Casualties : Total Number of Injured Individuals.🤕🤦‍♂️
-- Number of Vehicles : Count of Vehicles Involved in the Accident.🚘
-- Police Force : The Police Department responding to the Incident.🚓👮
-- Road Surface Conditions : Quality and State of the Road Surface.
-- Road Type : Classification of the Road.
-- Speed Limit : Maximum allowable Speed at the Accident Location.⚠️☠️🚨
-- Time : Exact Time when the Accident Occurred.
-- Urban or Rural Area : Classification of the Area where the Accident Happened.
-- Weather Conditions : Weather Conditions at the Time of the Accident.
-- Vehicle Type : Classification of the Vehicles Involved.
+When we examine, we observe a number of Different Columns all the 3 Datasets.
 
 # Requirement
 
-- ✅ The Total Casualties taken place after the Accident.
-- ✅ Types of Casualites and its Percentage Distribution 
-- ✅ The total Casualties with respect to the Vehicle type.
-- ✅ The Monthly trend showing Comparisons of Casualties for the Current Year and the Previous Year.
-- ✅ Total Casualties by the Road Type.
-- ✅ Distribution of total Casualties by the Road Surface.
-- ✅ Total Casualties by Area and by Light Conditions.
-
+- ✅ Analysis to Find Social Buzz’s top 5 most Popular Categories of Content.
 
 # 🧹 Data Cleaning ✨
 
-- Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
+- Removed unwanted columns.
 - Changed the Data Types wherever required.📅
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
@@ -94,31 +68,16 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
-![Screenshot (90)](https://github.com/user-attachments/assets/27905920-bab3-4f5b-a2fb-c3d911216aeb)
+[Analysis.xlsx](https://github.com/user-attachments/files/16487175/Analysis.xlsx)
 
-Using Custom functions in PIVOT TABLE, I have manipulated data and created this Amazing Interactive Dashboard.
+Using Custom functions like LOOKUPS, I have manipulated data and created this Amazing Analysis.
 
 The Operations performed are:
 - Applied Sorting and Filters📶
 - Applied necessary Functions📊
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
-
-This Illustrates the Analysis within Rural Areas 📍.
-[![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/8fabba5e25e32a19f5cbb69f3e31e69f7f53ab51/Analysis%201.png)
-
-This Illustrates the Analysis within Urban Areas 📍.
-[![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/25e6cc624ba1e04cf1e007bdc45b43225c329d65/Analysis%202.png)
-
-This Illustrates the Analysis for the Accidents Date within 2021 Quarter1 📅.
-[![Screenshot (93)](https://github.com/user-attachments/assets/bc2f13dc-8cbe-409c-ab11-4791a5469eda)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%203.png)
-
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter3 📅.
-[![Screenshot (94)](https://github.com/user-attachments/assets/7957550d-c142-4c6f-89c6-fff7ca476d7a)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%204.png)
-
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
-[![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%205.png)
-
+The Entirety of this Project, Complete with all Intricate Details and Findings, is Meticulously presented in the Accompanying PowerPoint Presentation.
+[Presentation.pptx](https://github.com/user-attachments/files/16487173/Presentation.pptx)
 
 # Author 🙎‍♀️  
 
@@ -136,8 +95,8 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
 
 # ✍ Acknowledgement
 
-Thank you to Kaggle for providing me this Invaluable Resource, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
-- Kaggle :- https://www.kaggle.com
+Thank you to Accenture and Forage for providing me this Invaluable Oppurtunity, which I leveraged to Enhance my Analysis and Visualization of the Data throughout the Project.
+- Forage :- https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-mmlb/project-understanding
 
 #  🌟About Me 🙎‍♀️
 
